@@ -49,4 +49,4 @@
 
 ## 📬 Contact
 
-<img src="https://img.shields.io/badge/kittse@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"> <a href="https://studywith-min.tistory.com"><img src="https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white"></a>
+<img src="https://img.shields.io/badge/minseoshin64%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> <a href="https://studywith-min.tistory.com"><img src="https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white"></a>
