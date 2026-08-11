@@ -49,4 +49,6 @@
 
 ## 📬 Contact
 
-<img src="https://img.shields.io/badge/minseoshin64%40gmail.com-3A8EFF?style=for-the-badge&logo=gmail&logoColor=white"> <a href="https://studywith-min.tistory.com"><img src="https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white"></a>
+<a href="mailto:minseoshin64@gmail.com">
+  <img src="https://img.shields.io/badge/minseoshin64%40gmail.com-3A8EFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a> <a href="https://studywith-min.tistory.com"><img src="https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white"></a>
